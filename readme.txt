@@ -8,3 +8,6 @@
 
 我不知道
   你也不知道
+
+
+keep foolish

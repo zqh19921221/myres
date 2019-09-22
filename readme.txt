@@ -11,4 +11,8 @@
 
 
 keep foolish
+<<<<<<< HEAD
 keep healthy1
+=======
+keep hungry
+>>>>>>> james
